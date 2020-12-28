@@ -18,7 +18,10 @@
       
       <guid>/hugo-goa-demo/blog/third/</guid>
       <description>Note: This article originally appeared in CodeRag.
-When Hooli acquired Endframe, no one could wait to see what the tech giant would do with the revolutionary, middle-out compression technology. The wait is over: In a savvy pivot, Hooli took the software and created their newest hardware: the Hooli/Endframe Box. While initially conceived as a consumer-facing platform, the Endframe technology has been repurposed to “make the world a better place through secure, high-capacity enterprise data storage servers utilizing middle-out compression technology.</description>
+When Hooli acquired Endframe, no one could wait to see what the tech giant would do with the revolutionary, middle-out compression technology. The wait is over: In a savvy pivot, Hooli took the software and created their newest hardware: the Hooli/Endframe Box. While initially conceived as a consumer-facing platform, the Endframe technology has been repurposed to “make the world a better place through secure, high-capacity enterprise data storage servers utilizing middle-out compression technology.”
+Insanely simple and beautifully crafted, the hardware backs up large amounts of data at a fraction of what it used to cost, so it’s no surprise that enterprise top dog Maleant Data System Solutions jumped at the chance to make a multi-year deal for the product. At a press conference announcing the blockbuster deal, CEO Calvin Greene stated, “The Hooli/Endframe Box is a welcome integration with our banking and medical system clients, who need to process large amounts of secure data at an accelerated pace.” Hooli’s Gavin Belson quipped that the world “always needs more money and doctors.”
+The hardware features a Dual Intel Haswell 2.6 Ghz processor, NVIDIA Tesla K80, Lightnight Eco Gen II SanDisk (800 TB, no less) and two 4TB Seagate hard drives. Matched with Endframe’s middle out algorithm, there’s a reason Maleant promises a 200 percent ROI to any client who elects to incorporate the Hooli/Endframe Box into their service deal with Maleant.
+The two companies flirted with multiple deal options before sealing the deal on a white label agreement, and becoming the power couple of enterprise data storage. Hooli could sell upgraded versions of these boxes to Maleant indefinitely, and Maleant’s penetration in the enterprise market ensures high demand for more Hooli/Endframe Boxes as long as Hooli can keep making them. Hundreds of millions of dollars could follow for Hooli’s enterprise sales division. With these two joining to sell storage solutions, no one will be able to touch their profits—or their data.</description>
     </item>
     
     <item>
@@ -48,9 +51,11 @@ Gavin Belson’s brilliant leadership is unstoppable. While allegedly taking a p
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/hugo-goa-demo/blog/2015-07-23-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+      <description>R Markdown
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+summary(cars)
+## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
   </channel>
